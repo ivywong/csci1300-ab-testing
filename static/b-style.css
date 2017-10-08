@@ -1,0 +1,20 @@
+.vendor-wrapper {
+	width: calc(50% - 20px - 40px);
+	display: inline-block;
+	padding: 10px 10px;
+    vertical-align: top;
+	margin-bottom: 10px;
+	margin-left: 40px;
+}
+.vendor-wrapper h3 {
+	border-bottom: 3px solid #DEE;
+
+}
+
+img.vendor-photo {
+	width: 50%;
+}
+
+body {
+	padding-bottom: 1em;
+}

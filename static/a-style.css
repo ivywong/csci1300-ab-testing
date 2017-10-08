@@ -1,0 +1,19 @@
+.vendor-wrapper {
+    max-width: 700px;
+    display: flex;
+    vertical-align: middle;
+    background-color: #DEE;
+    margin: 20px;
+}
+
+
+.vendor-photo {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.infobox {
+    margin: auto 0;
+    max-width: 400px;
+    display: inline-block;
+}
